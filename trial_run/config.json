@@ -1,0 +1,55 @@
+{
+  "outdir": "trial_run",
+  "data_dir": "data",
+  "device": "auto",
+  "seed": 42,
+  "synthetic": false,
+  "skip_reactome": false,
+  "string_threshold": 0.7,
+  "alpha": 0.5,
+  "n_boot": 200,
+  "clip_edge_membership": false,
+  "main_size": 200,
+  "sizes": [
+    50,
+    100,
+    200,
+    500
+  ],
+  "n_sources": 25,
+  "max_labels": 4,
+  "strength_mode": "none",
+  "rank_mode": "yager",
+  "n_candidates": null,
+  "cand_by_size": {
+    "50": 500,
+    "100": 1000,
+    "200": 1000,
+    "500": 5000
+  },
+  "eps": 1e-09,
+  "lam": [
+    0.25,
+    0.25,
+    0.25,
+    0.25
+  ],
+  "robust_deltas": [
+    0.05,
+    0.1,
+    0.2
+  ],
+  "robust_B": 20,
+  "robust_kappa": 0.5,
+  "deltas": [
+    0.0,
+    0.05,
+    0.1,
+    0.2
+  ],
+  "mc_B": 20,
+  "stability_delta": 0.1,
+  "n_seeds": 2,
+  "reactome_max_paths": 60,
+  "resume": true
+}

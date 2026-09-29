@@ -1,0 +1,4 @@
+method,multi_gene_paths,paths_enriched,paths_with_FDR_lt_0_05,fraction_significant,median_best_FDR,genes_in_multigene_paths,cover_level_significant_pathways
+Proposed Pareto,14,14,14,1.0,0.00035611633261356523,42,15
+Minimum-cardinality,13,13,13,1.0,0.00032416262485290837,43,15
+Minimum worst-cost,22,22,22,1.0,0.0004861794813416087,42,15

@@ -1,0 +1,13 @@
+{
+  "study": "brca_tcga_pan_can_atlas_2018",
+  "n_samples": 1082,
+  "n_genes_expression": 20230,
+  "n_genes_in_string_network": 14312,
+  "n_string_edges": 196671,
+  "string_version": "v12.0",
+  "string_threshold": 0.7,
+  "organism": "Homo sapiens (9606)",
+  "network_type": "full STRING network, combined score",
+  "zscore_source": "data_mrna_seq_v2_rsem_zscores_ref_diploid_samples.txt",
+  "alpha": 0.5
+}

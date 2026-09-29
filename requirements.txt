@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+requests
+matplotlib
+psutil
+tqdm
+# torch is preinstalled on Colab (GPU runtime). Locally: pip install torch
+networkx
+tabulate

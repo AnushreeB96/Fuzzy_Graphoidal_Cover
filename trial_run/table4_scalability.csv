@@ -1,0 +1,5 @@
+Target selection,Actual genes,Edges,Candidate budget,Candidates (distinct),Budget cap reached,Pareto solutions,Runtime (s),CPU mem (MB),GPU mem (MB),Proposed cover size,Min-cardinality cover size
+Top-50,25,20,500,130,False,22,1.5377823549999903,1470.44921875,253.03125,13,13
+Top-100,47,45,1000,703,False,35,0.46933643500000244,1471.671875,477.5693359375,34,33
+Top-200,100,116,1000,999,False,66,1.038777653000011,1474.69921875,1005.2919921875,89,87
+Top-500,277,422,5000,5000,True,247,9.811713883999971,1556.875,2758.7626953125,329,320
